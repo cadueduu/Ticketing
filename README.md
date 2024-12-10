@@ -1,5 +1,7 @@
 # Sistema de Solicitação de Serviços
 
+#Calos Eduardo | Gabriela E Lopes
+
 ## Descrição
 Este é um programa em C desenvolvido para gerenciar solicitações de serviços. O sistema permite o cadastro de clientes, geração de tickets de serviço, registro de relatos, status e valores cobrados, além de gerenciar a área do técnico responsável.
 
